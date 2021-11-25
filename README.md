@@ -1,0 +1,2 @@
+# duck
+useful ducking scripts :)
